@@ -22,7 +22,8 @@
   float: right;
 }
 
-.formelement input[type="text"],.formelement input[type="password"] {
+.formelement input[type="text"],
+.formelement input[type="password"] {
   width: 350px;
   min-height: 50px;
   line-height: 50px;
